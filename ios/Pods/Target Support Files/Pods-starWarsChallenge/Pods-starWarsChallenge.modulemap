@@ -1,0 +1,6 @@
+module Pods_starWarsChallenge {
+  umbrella header "Pods-starWarsChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
