@@ -160,7 +160,6 @@
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				0F7605F6A216B8515A83CEFB /* [CP] Embed Pods Frameworks */,
 				239D880585AB68FD5429871B /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
@@ -183,7 +182,6 @@
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				094A07A81FB29BC2ABA49CBD /* [CP] Embed Pods Frameworks */,
 				00E32B044D1E9DD86FAB4202 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
@@ -280,40 +278,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-starWarsChallenge/Pods-starWarsChallenge-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		094A07A81FB29BC2ABA49CBD /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-starWarsChallenge/Pods-starWarsChallenge-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-starWarsChallenge/Pods-starWarsChallenge-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-starWarsChallenge/Pods-starWarsChallenge-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		0F7605F6A216B8515A83CEFB /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-starWarsChallenge-starWarsChallengeTests/Pods-starWarsChallenge-starWarsChallengeTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-starWarsChallenge-starWarsChallengeTests/Pods-starWarsChallenge-starWarsChallengeTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-starWarsChallenge-starWarsChallengeTests/Pods-starWarsChallenge-starWarsChallengeTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		239D880585AB68FD5429871B /* [CP] Copy Pods Resources */ = {
