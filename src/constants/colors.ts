@@ -1,0 +1,16 @@
+export const Colors = {
+  primaryWhite: '#ffffff',
+  primaryOrange: '#ff4500',
+  primaryBlack: '#000000',
+  vividOrange: '#db3b00',
+  errorColor: '#dc143c',
+  lightGrey: '#f8f8f8',
+  secondaryGrey: '#e9ebed',
+  successColor: '#007a7c',
+  facebookBlue: '#3b5998',
+  gunMetalGrey: '#49545c',
+  charcoalGrey: '#2f3941',
+  blueishGrey: '#87929d',
+  darkGrey: '#1f2934',
+  placeholderTextColor: '#87929d',
+};
